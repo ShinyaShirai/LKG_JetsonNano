@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "LKG_JetsonNano",
+"productName": "LKG_JetsonNano_2",
 "productVersion": "0.1",
 "dataUrl": "build.data.unityweb",
 "wasmCodeUrl": "build.wasm.code.unityweb",
